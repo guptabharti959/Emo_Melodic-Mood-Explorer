@@ -30,7 +30,7 @@ The Emo_Melodic Mood Explorer is a user-friendly tool that helps you explore the
 - Fork the project and clone
 - Import the project in VS Code
 - Be sure to install all the neccessary libraries
-- Then use this command "streamlit run music.py"
+- Then use this command ```streamlit run music.py```
 
 
 
