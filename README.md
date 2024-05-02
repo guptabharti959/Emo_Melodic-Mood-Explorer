@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Language-Python-yellow)
 
-## 🔍Description
+## 🔍Overview
 
 The Emo_Melodic Mood Explorer is a user-friendly tool that helps you explore the emotional vibes of various songs. It analyzes the mood of each track using smart techniques and presents them in a simple format. With this tool, you can easily find songs that match your current mood or discover new ones to suit different emotions. It's like having a personalized music guide that understands your feelings. Dive into a world of melodies tailored to your emotions with the Emo_Melodic Mood Explorer.
 
